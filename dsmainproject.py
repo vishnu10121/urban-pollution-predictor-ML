@@ -750,8 +750,8 @@ plt.show()
 # In[ ]:
 
 
-1. Wind speed has the strongest effect on PM2.5 dispersion.
-2. Humidity and temperature also influence pollution levels.
-3. Tree-based models (Random Forest, Decision Tree, Extra Trees) performed best.
-4. Weather variables explain part of the pollution variation, but other urban factors are required for more accurate prediction.
+#1. Wind speed has the strongest effect on PM2.5 dispersion.
+#2. Humidity and temperature also influence pollution levels.
+#3. Tree-based models (Random Forest, Decision Tree, Extra Trees) performed best.
+#4. Weather variables explain part of the pollution variation, but other urban factors are required for more accurate prediction.
 
